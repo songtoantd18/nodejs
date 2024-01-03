@@ -1,0 +1,28 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songtoantd18/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "project-"
+  ],
+  "author": "song toan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songtoantd18/nodejs/issues"
+  },
+  "homepage": "https://github.com/songtoantd18/nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
